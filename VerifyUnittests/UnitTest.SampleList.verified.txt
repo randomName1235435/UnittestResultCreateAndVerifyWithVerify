@@ -1,0 +1,14 @@
+﻿[
+  {
+    SampleIntProperty: 1,
+    SampleStringProperty: 1
+  },
+  {
+    SampleIntProperty: 2,
+    SampleStringProperty: 2
+  },
+  {
+    SampleIntProperty: 3,
+    SampleStringProperty: 3
+  }
+]

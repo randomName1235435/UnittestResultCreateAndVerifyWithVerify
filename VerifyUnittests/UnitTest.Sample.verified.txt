@@ -1,0 +1,4 @@
+﻿{
+  SampleIntProperty: 1,
+  SampleStringProperty: 1
+}
